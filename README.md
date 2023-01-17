@@ -35,5 +35,5 @@ As a user I want to make a purchase in Amazon web. The process to make the purch
     - <code>pip install -U selenium</code>
     - <code>pip install -U pytest</code>
     - <code>pip install -U pytest-selenium</code>
- - Run the following command in the terminal: 
+ - Navigate to the project folder and run the following command in the terminal: 
     - <code>pytest --driver-path geckodriver</code>
